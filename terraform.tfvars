@@ -1,0 +1,5 @@
+vpc_name            = "newvpc"
+s3_terraform_bucket = "terraformbucket"
+environment         = "dev"
+region              = "us-east-1"
+coffee_type         = "validCoffeeType"
